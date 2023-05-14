@@ -26,11 +26,20 @@ body:
     validations:
       required: true
   - type: textarea
-    id: exptected
+    id: expected
     attributes:
       label: Expected behavior
       description: A clear and concise description of what you expected to happen.
       placeholder: It should appear this and this
+      value:
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What actually happens
+      placeholder: But actually this or that appeared
       value:
     validations:
       required: true
