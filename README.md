@@ -1,6 +1,6 @@
 # Parametrized Issue Template for github
 
-A test project to demonstrate how to create a parametrized issue template (bug report) for a project on GitHub.
+A test project to demonstrate how to create a [parametrized issue template (bug report)](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) for a project on GitHub.
 
 # Populating fields automagically
 
